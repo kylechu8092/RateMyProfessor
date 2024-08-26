@@ -1,0 +1,64 @@
+{
+  "reviews": [
+    {
+      "professor": "Prof1",
+      "review": "Great professor, explains concepts clearly and is very patient with students.",
+      "subject": "Math",
+      "stars": 5
+    },
+    {
+      "professor": "Prof2",
+      "review": "Provides good examples and makes the class engaging. Assigns a lot of homework though.",
+      "subject": "Physics",
+      "stars": 4
+    },
+    {
+      "professor": "Prof3",
+      "review": "Very knowledgeable but speaks too fast. Hard to keep up with the lectures sometimes.",
+      "subject": "Chemistry",
+      "stars": 3
+    },
+    {
+      "professor": "Prof4",
+      "review": "Amazing professor, always available for extra help and very friendly.",
+      "subject": "Biology",
+      "stars": 5
+    },
+    {
+      "professor": "Prof5",
+      "review": "Course material is challenging, but the professor explains it well. The exams are tough.",
+      "subject": "Computer Science",
+      "stars": 4
+    },
+    {
+      "professor": "Prof6",
+      "review": "Focuses more on theory than practical applications. Not very engaging.",
+      "subject": "History",
+      "stars": 2
+    },
+    {
+      "professor": "Prof7",
+      "review": "Excellent professor, very approachable and always encourages questions.",
+      "subject": "English",
+      "stars": 5
+    },
+    {
+      "professor": "Prof8",
+      "review": "Sometimes hard to follow, but provides good study materials.",
+      "subject": "Economics",
+      "stars": 3
+    },
+    {
+      "professor": "Prof9",
+      "review": "Class is interesting, but the professor is often late to lectures.",
+      "subject": "Philosophy",
+      "stars": 3
+    },
+    {
+      "professor": "Prof10",
+      "review": "Very strict with deadlines, but teaches the material well.",
+      "subject": "Art",
+      "stars": 4
+    }
+  ]
+}
